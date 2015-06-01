@@ -23,7 +23,7 @@ Stopwatch paused.  KeyboardInterrupt (^C) again to stop. Input numbers to offset
 
 Everything else is the same. Here, we trigger KeyboardInterrupt twice:
 
-```
+```python
 0:00:04.817535^C
 Stopwatch paused.  KeyboardInterrupt (^C) again to stop. Input numbers to offset the stopwatch ('-10' for 10 seconds subtracted, '10' for 10 seconds added). Input 'u' to resume as if never paused. Press Return to resume stopwatch: 
 
