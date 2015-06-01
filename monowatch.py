@@ -43,8 +43,5 @@ def monowatch(showdocs=True):
                 print("\n")
                 return datetime.timedelta(seconds=pausedtime)
 
-def timer(targettime): # (targettime should be a datetime object)
-    pass # todo
-
 if __name__ == "__main__":
     monowatch()
