@@ -29,7 +29,7 @@ def monowatch(showdocs=True):
                 while True:
                     try:
                         offset = input(pausetext)
-                        timestart = time.time() - (pausedtime - float(offset))
+                        timestart = time.time() - (pausedtime + float(offset))
                         break
                     except ValueError:
                         if offset == "":
