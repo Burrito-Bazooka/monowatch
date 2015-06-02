@@ -18,7 +18,7 @@ Stopwatch paused.  KeyboardInterrupt (^C) again to stop. Input numbers to offset
 ```python
 >>> import monowatch
 >>> monowatch.monowatch()
-0:00:01.817535
+0:00:01.169368
 ```
 
 Everything else is the same. Here, we trigger KeyboardInterrupt twice:
