@@ -21,7 +21,7 @@ Stopwatch paused.  KeyboardInterrupt (^C) again to stop. Input numbers to offset
 0:00:01.169368
 ```
 
-Everything else is the same. Here, we trigger KeyboardInterrupt twice:
+Everything else is the same as CLI usage, shown above. Here, we trigger KeyboardInterrupt twice:
 
 ```python
 0:00:04.817535^C
